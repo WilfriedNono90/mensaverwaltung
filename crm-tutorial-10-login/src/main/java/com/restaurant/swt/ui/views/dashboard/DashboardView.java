@@ -1,5 +1,8 @@
-package com.vaadin.tutorial.crm.ui.views.dashboard;
+package com.restaurant.swt.ui.views.dashboard;
 
+import com.restaurant.swt.backend.service.CompanyService;
+import com.restaurant.swt.backend.service.ContactService;
+import com.restaurant.swt.ui.MainLayout;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.charts.Chart;
 import com.vaadin.flow.component.charts.model.ChartType;
@@ -9,9 +12,6 @@ import com.vaadin.flow.component.html.Span;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
-import com.vaadin.tutorial.crm.backend.service.CompanyService;
-import com.vaadin.tutorial.crm.backend.service.ContactService;
-import com.vaadin.tutorial.crm.ui.MainLayout;
 
 import java.util.Map;
 

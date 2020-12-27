@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.crm.security;
+package com.restaurant.swt.security;
 
 import java.util.stream.Stream;
 

@@ -1,10 +1,11 @@
-package com.vaadin.tutorial.crm.backend.service;
+package com.restaurant.swt.backend.service;
 
-import com.vaadin.tutorial.crm.backend.entity.Company;
-import com.vaadin.tutorial.crm.backend.entity.Contact;
-import com.vaadin.tutorial.crm.backend.repository.CompanyRepository;
-import com.vaadin.tutorial.crm.backend.repository.ContactRepository;
 import org.springframework.stereotype.Service;
+
+import com.restaurant.swt.backend.entity.Company;
+import com.restaurant.swt.backend.entity.Contact;
+import com.restaurant.swt.backend.repository.CompanyRepository;
+import com.restaurant.swt.backend.repository.ContactRepository;
 
 import javax.annotation.PostConstruct;
 import java.util.List;

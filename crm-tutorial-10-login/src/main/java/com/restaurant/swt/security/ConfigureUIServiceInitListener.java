@@ -1,10 +1,11 @@
-package com.vaadin.tutorial.crm.security;
+package com.restaurant.swt.security;
 
+import com.restaurant.swt.ui.views.login.LoginView;
 import com.vaadin.flow.component.UI;
 import com.vaadin.flow.router.BeforeEnterEvent;
 import com.vaadin.flow.server.ServiceInitEvent;
 import com.vaadin.flow.server.VaadinServiceInitListener;
-import com.vaadin.tutorial.crm.ui.views.login.LoginView;
+
 import org.springframework.stereotype.Component;
 
 @Component

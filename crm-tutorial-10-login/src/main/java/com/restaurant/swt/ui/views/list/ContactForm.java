@@ -1,5 +1,7 @@
-package com.vaadin.tutorial.crm.ui.views.list;
+package com.restaurant.swt.ui.views.list;
 
+import com.restaurant.swt.backend.entity.Company;
+import com.restaurant.swt.backend.entity.Contact;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.ComponentEvent;
 import com.vaadin.flow.component.ComponentEventListener;
@@ -15,8 +17,6 @@ import com.vaadin.flow.data.binder.BeanValidationBinder;
 import com.vaadin.flow.data.binder.Binder;
 import com.vaadin.flow.data.binder.ValidationException;
 import com.vaadin.flow.shared.Registration;
-import com.vaadin.tutorial.crm.backend.entity.Company;
-import com.vaadin.tutorial.crm.backend.entity.Contact;
 
 import java.util.List;
 

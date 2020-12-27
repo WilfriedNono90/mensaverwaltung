@@ -1,9 +1,10 @@
-package com.vaadin.tutorial.crm.backend.repository;
+package com.restaurant.swt.backend.repository;
 
-import com.vaadin.tutorial.crm.backend.entity.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
+
+import com.restaurant.swt.backend.entity.Contact;
 
 import java.util.List;
 

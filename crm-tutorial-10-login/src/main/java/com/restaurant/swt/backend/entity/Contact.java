@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.crm.backend.entity;
+package com.restaurant.swt.backend.entity;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;

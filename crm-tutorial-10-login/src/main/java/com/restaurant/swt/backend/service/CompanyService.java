@@ -1,8 +1,9 @@
-package com.vaadin.tutorial.crm.backend.service;
+package com.restaurant.swt.backend.service;
 
-import com.vaadin.tutorial.crm.backend.entity.Company;
-import com.vaadin.tutorial.crm.backend.repository.CompanyRepository;
 import org.springframework.stereotype.Service;
+
+import com.restaurant.swt.backend.entity.Company;
+import com.restaurant.swt.backend.repository.CompanyRepository;
 
 import java.util.HashMap;
 import java.util.List;

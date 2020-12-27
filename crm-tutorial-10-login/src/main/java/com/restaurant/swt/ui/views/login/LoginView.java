@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.crm.ui.views.login;
+package com.restaurant.swt.ui.views.login;
 
 import com.vaadin.flow.component.html.H1;
 import com.vaadin.flow.component.login.LoginForm;

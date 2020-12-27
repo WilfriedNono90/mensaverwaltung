@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.crm.security;
+package com.restaurant.swt.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
